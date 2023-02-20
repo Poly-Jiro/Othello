@@ -1,15 +1,5 @@
 # Othello
-# Othello
-# Othello
-# Othello
-# Othello
-# Othello
-# Othello
-# Othello
-# Othello
-# Othello
-# Othello
-# Othello
-# Othello
-# Othello
-# Othello
+##　ソース概要
+
+オセロゲームのプログラミング。
+ボード部とルール部で分けた共同制作物で自分の実装部分のみアップ。
